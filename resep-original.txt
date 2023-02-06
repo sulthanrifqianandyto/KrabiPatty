@@ -3,3 +3,5 @@ Resep Original
 2. Bawang
 3. kecap
 4. daging
+5. timun
+6. saus
